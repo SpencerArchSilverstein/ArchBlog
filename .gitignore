@@ -26,3 +26,13 @@ yarn-error.log*
 
 # Environment files (local configs)
 /.env.*
+
+### Firebase ###
+.idea
+**/node_modules/*
+
+### Firebase Patch ###
+.runtimeconfig.json
+.firebase/
+
+/src/firebase
