@@ -1,5 +1,3 @@
-import Box from "@mui/material/Box";
-import Tabs from "@mui/material/Tabs";
 import { useNavigate } from "react-router-dom";
 
 export default function Navigation() {
