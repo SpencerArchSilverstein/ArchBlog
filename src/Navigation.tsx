@@ -13,7 +13,7 @@ export default function Navigation() {
   };
   return (
     <nav>
-      <button onClick={handleHome}>HOME</button>
+      <button onClick={handleHome}>HOME!</button>
       <button onClick={handleAlbums}>ALBUMS</button>
       <button onClick={handleConcerts}>CONCERTS</button>
     </nav>
